@@ -1,3 +1,7 @@
+https://subscription.packtpub.com/video/web_development/9781839217081/p2/video2_7/-push-code-to-github-com
+
+https://subscription.packtpub.com/video/web_development/9781838648770/p1/video1_5/handling-http-requests
+
 pwd
 ls
 cd /c/nodestock
@@ -25,3 +29,20 @@ $ git config --global alias.co checkout
 $ git init
 $ git add .
 git commit -am 'initial commit'
+
+mkdir ~/.ssh
+cd ~/.ssh
+ssh-keygen.exe
+
+mokshagana@Mokshagna MINGW64 /c/W/nodestock (master)
+$ git remote add origin git@github.com:Venkata16924B/nodestock.git
+
+mokshagana@Mokshagna MINGW64 /c/W/nodestock (master)
+$ git push -u origin master
+
+git remote rm origin
+
+
+https://github.com/Venkata16924B/nodestock.git
+
+
