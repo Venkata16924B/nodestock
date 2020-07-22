@@ -1,0 +1,27 @@
+pwd
+ls
+cd /c/nodestock
+npm init -y
+$ npm install express --save   (https://expressjs.com)
+
+npm install -D nodemon
+	"scripts": {
+    "start": "node index" ,
+    "dev": "nodemon index"
+  },
+npm run dev
+npm install express-handlebars
+
+$ git config --global user.name "Your Name"
+$ git config --global user.email "you@youraddress.com"
+$ git config --global push.default matching
+$ git config --global alias.co checkout
+$ git init
+
+$ git config --global user.name "Venkata"
+$ git config --global user.email "exabi54921@gmail.com"
+$ git config --global push.default matching
+$ git config --global alias.co checkout
+$ git init
+$ git add .
+git commit -am 'initial commit'
