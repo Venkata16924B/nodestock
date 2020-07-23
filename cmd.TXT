@@ -2,6 +2,11 @@ https://subscription.packtpub.com/video/web_development/9781839217081/p2/video2_
 
 https://subscription.packtpub.com/video/web_development/9781838648770/p1/video1_5/handling-http-requests
 
+https://iexcloud.io/cloud-login#/register/
+
+pk_779f9aea701545f2ac22ed7447fa2ad8
+
+
 pwd
 ls
 cd /c/nodestock
@@ -45,4 +50,6 @@ git remote rm origin
 
 https://github.com/Venkata16924B/nodestock.git
 
+
+npm install body-parser
 
